@@ -4,8 +4,7 @@
 
 It is a temperature convertor made using javascript, HTML, CSS and BootStrap.
 
-![demo](./images/demo.gif)
-https://github.com/Akashpatil2002/BTASK-HTML/blob/main/Images/Screenshot%202023-06-05%20092032.png
+![Screenshot 2023-06-05 092032](https://github.com/Akashpatil2002/BTASK-HTML/assets/130535478/d59f8313-52a6-456d-ba88-27ba90a06220)
 ---
 
 ## Setup
